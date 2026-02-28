@@ -82,6 +82,8 @@ Its also located in `code-snippets/hello-world.asm` if you want to run it yourse
                 example 'xor rdi, rdi' bytes:
                                   '48 31 FF'
                 in general x86, 'xor rdi, rdi' is preferred.
+
+      
 - 13. `syscall` - Sends the Syscall to the Kernel/OS, from what we defined earlier.
 
 # Assembling And Linking The Program
