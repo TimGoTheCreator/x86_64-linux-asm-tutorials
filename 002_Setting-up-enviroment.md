@@ -24,7 +24,7 @@ To install a assembly debugger, you can download 'GNU gdb', to install it:
 sudo apt install gdb
 ```
 
-After you've installed it, you can vrrify it with:
+After you've installed it, you can verify it with:
 
 ```bash
 gdb -v
